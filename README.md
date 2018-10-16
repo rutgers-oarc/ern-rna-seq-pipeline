@@ -1,6 +1,6 @@
 
 # RNA sequence analysis pipeline using nextflow. 
-<img src="https://github.com/dmbala/ern-rna-seq-pipeline/blob/master/Fig/dag-flowchart.png" width="450px" height="350px" />
+<img src="https://github.com/dmbala/ern-rna-seq-pipeline/blob/master/Fig/flowchart.png" width="450px" height="350px" />
 
 Nextflow pipeline to run a sample RNA sequence pipeline. Software packages are packed in a singularity image. Mapping was done using pseudo alignment appoach combined with sleuth package for differential gene expression analysis. 
 
