@@ -15,7 +15,6 @@ Nextflow pipeline to run a sample RNA sequence pipeline. Software packages are p
     * job-rna-seq.sh
     * nextflow.config
     * rna-seq-trans-align.nf
-    * rna-trans-align.simg
     * sleuth.R
     * sleuth_live.R
     * sleuth_live.sh
