@@ -1,0 +1,5 @@
+.libPaths("/projects/oarc/NF-Seq/sleuth")
+library("sleuth")
+load(file="./results/sleuth_object.so")
+#sleuth_live(so, options=list(port=43838))
+sleuth_live(so)
